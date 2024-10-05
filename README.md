@@ -1,6 +1,11 @@
 # Analisis-Sentiment-Linkedin-Singapura-dengan-Algoritma-Naive-Bayes-Support-Vector-Machine-LSTM-
 Analisis-Sentiment-Lexicon-Based-Linkedin-Singapura-dengan-Algoritma-Naive-Bayes-Support-Vector-Machine-LSTM 
 
+
+
+## Abstrak: 
+Penelitian ini bertujuan untuk menganalisis sentimen pengguna Android terhadap suatu aplikasi di Google Play Store, menggunakan tiga metode klasifikasi berbeda: Naive Bayes, Support Vector Machine (SVM), dan Long Short-Term Memory (LSTM). Data yang digunakan berupa ulasan pengguna di Google Play Store. Pada penelitian ini, teks ulasan diolah menggunakan representasi TF-IDF dan metode pembelajaran mesin serta deep learning diterapkan untuk memprediksi sentimen apakah termasuk ke dalam kelas positif, netral, atau negatif. Berdasarkan hasil evaluasi, model Naive Bayes dan LSTM memberikan akurasi yang sama sebesar 93.44%, sedangkan model SVM sedikit lebih rendah dengan akurasi 93.15%. Hal ini menunjukkan bahwa baik model Naive Bayes maupun LSTM sama-sama efektif dalam mengklasifikasikan sentimen ulasan pengguna, dengan sentimen positif lebih dominan dibandingkan sentimen negatif atau netral.
+
 Dari hasil evaluasi terhadap tiga model yang digunakan untuk klasifikasi sentimen, dapat disimpulkan sebagai berikut:
 
 ## Naive Bayes:
